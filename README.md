@@ -61,8 +61,8 @@ Iris_Flower_Prediction/
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/likithsurya23/flask-iris-main.git
-    cd Iris_Flower_Prediction
+    git clone https://github.com/likithsurya23/flask-iris-main
+    cd flask-iris-main
     ```
 
 2. **Create a virtual environment**:
