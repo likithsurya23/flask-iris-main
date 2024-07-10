@@ -176,7 +176,7 @@ This is the HTML template for displaying the prediction result.
 
 ## Screenshots
 
-![image](https://github.com/yourusername/Iris_Flower_Prediction/assets/sample_image.png)
+![image](https://github.com/likithsurya23/flask-iris-main/static/screenshot.jpg)
 
 ## Conclusion
 
