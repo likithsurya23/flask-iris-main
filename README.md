@@ -176,8 +176,7 @@ This is the HTML template for displaying the prediction result.
 
 ## Screenshots
 
-![image](https://github.com/likithsurya23/flask-iris-main/static/screenshot.jpg)
-
+![image](https://github.com/likithsurya23/flask-iris-main/blob/64f0b75e11ee55db816736dd5301f0ac35ce7d4c/static/screenshot.jpg)
 ## Conclusion
 
 This documentation provides a comprehensive guide to setting up and running the Iris Flower Prediction System. By following the steps outlined, you should be able to deploy the application and make predictions based on user input. If you encounter any issues, ensure that all dependencies are installed and that the model file is correctly placed in the `models` directory.
